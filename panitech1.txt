@@ -1,5 +1,5 @@
 This is panitech1.txt file
 panitech is the best
-This
-is
 good
+ddd
+ddd
